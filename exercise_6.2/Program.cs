@@ -22,5 +22,5 @@ else
 {
     CrossingLineX =(b2-b1)/(k1-k2);
     CrossingLineY =k1*CrossingLineX+b1;
-    Console.WriteLine("точка пересечения "+" ("+ CrossingLineX+" ;"+CrossingLineY+ ")");
+    Console.WriteLine("Точка пересечения двух прямых "+" ("+ CrossingLineX+" ;"+CrossingLineY+ ")");
 }
